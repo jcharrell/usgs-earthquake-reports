@@ -1,16 +1,20 @@
 'use strict';
 
 module.exports = function filterByMagnitude(data, min, max) {
+	if(!min && !max) {
+		return data;
+	}
+
 	data = data.filter(function(event) {
-		let magnatude = event.properties.mag;
+		let magnitude = event.properties.mag;
 
 		if(min && max) {
-			return magnatude >= min && magnatude <= max
+			return magnitude >= min && magnitude <= max
 		} else if(min) {
-			return magnatude >= min
+			return magnitude >= min
 
 		} else if(max) {
-			return magnatude <= max
+			return magnitude <= max
 		}
 	});
 
