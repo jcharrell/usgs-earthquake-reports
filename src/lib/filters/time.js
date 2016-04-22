@@ -5,20 +5,24 @@ const timeFormat = 'YYYY-MM-DDTHH:mm:ss';
 
 function generateTimestamp(time) {
 	if(time) {
-		return moment.utc(time, timeFormat).format('x');
+		return parseInt(moment.utc(time, timeFormat).format('x'));
 	} else {
-		return moment.utc().format('x');
+		return parseInt(moment.utc().format('x'));
 	}
 }
 
 module.exports = function filterByTime(data, min, max) {
+	if(!min && !max) {
+		return data;
+	}
+
 	let beginTimestamp, endTimestamp;
 
 	// Set the begin and end timestamps, if they are to be used
 	if(min) {
 		beginTimestamp = generateTimestamp(min);
 	}
-	if(min) {
+	if(max) {
 		endTimestamp = generateTimestamp(max);
 	}
 
@@ -30,8 +34,8 @@ module.exports = function filterByTime(data, min, max) {
 			return eventTime >= beginTimestamp && eventTime <= endTimestamp;
 		} else if(beginTimestamp) {
 			return eventTime >= beginTimestamp;
-		} else if(endTime) {
-			return endTimestamp <= endTimestamp;
+		} else if(endTimestamp) {
+			return eventTime <= endTimestamp;
 		}
 	});
 
