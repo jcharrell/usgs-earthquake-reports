@@ -14,11 +14,12 @@ module.exports = function reportsRequest(data, filters) {
 			data = filterByMag(data, filters.minMag, filters.maxMag);
 		}
 
-		if(filters.since || filters.until) {
-			data = filterByTime(data, filters.since, filters.until);
+		if(filters.minTime || filters.maxTime) {
+			data = filterByTime(data, filters.minTime, filters.maxTime);
 		}
 		return data;
 	}).catch(function errorHandler(err) {
 		throw (err);
 	});
 };
+
