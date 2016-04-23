@@ -44,7 +44,7 @@ describe('[time.js] - Filtering with maximum time of 2016-04-21T12:00:00', funct
 describe('[time.js] - Filtering with time between 2016-04-21T09:00:00 and 2016-04-21T14:00:00', function filterMinimumAndMaximumTimeDescribe() {
 	let reports;
 	before(function getReportsBefore() {
-		reports = time(mockData, '2016-04-21T09:00:00', '2016-04-21T14:00:000');
+		reports = time(mockData, '2016-04-21T09:00:00', '2016-04-21T14:00:00');
 	});
 
 	it('should return 40 events', function successRecipe() {
