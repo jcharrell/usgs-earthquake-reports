@@ -38,7 +38,10 @@ earthquakeReports('day', filterOptions).then(function usgsResponse(data) {
 ### timeFrame(optional)
 - Type: `string`
 - Default: `day` 
-- Valid Options: `day | week | month`
+- Valid Options: `hour | day | week | month`
+- Note: All USGS products are updated every 5 minutes, with the exception of monthly data which 
+is updated in 15 minute intervals.  It is highly suggested that requested data is cached to reduce
+the load put on the USGS servers.
 
 
 ### filterOptions (optional)
