@@ -1,7 +1,7 @@
 'use strict';
 
 // Regular expression to validate the requested date format
-const validIntervals = ['day', 'week', 'month'];
+const validIntervals = ['hour', 'day', 'week', 'month'];
 const request = require('./lib/reports-request');
 const filter = require('./lib/reports-filter');
 const co = require('co');
