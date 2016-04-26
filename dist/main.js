@@ -8,7 +8,7 @@ var _regenerator2 = _interopRequireDefault(_regenerator);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var validIntervals = ['day', 'week', 'month'];
+var validIntervals = ['hour', 'day', 'week', 'month'];
 var request = require('./lib/reports-request');
 var filter = require('./lib/reports-filter');
 var co = require('co');
