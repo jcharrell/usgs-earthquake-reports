@@ -28,7 +28,7 @@ module.exports = [{
 		type: 'earthquake',
 		title: 'M 3.2 - 58km WNW of Bayview, California'
 	},
-	geometry: {type: 'Point', coordinates: [Object]},
+	geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 	id: 'nc72625485'
 },
 	{
@@ -61,7 +61,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.4 - 51km ENE of Challis, Idaho'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'mb80137249'
 	},
 	{
@@ -94,7 +94,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.9 - 15km E of Livingston, Montana'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'mb80137224'
 	},
 	{
@@ -127,7 +127,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.9 - 6km W of Cobb, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625475'
 	},
 	{
@@ -160,7 +160,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.1 - 9km NE of Aguanga, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37335095'
 	},
 	{
@@ -193,7 +193,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.1 - 16km NE of Borrego Springs, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37335087'
 	},
 	{
@@ -226,7 +226,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.5 - 8km WSW of Ludlow, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37335079'
 	},
 	{
@@ -259,7 +259,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.2 - 2km ESE of Las Marias, Puerto Rico'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'pr16112002'
 	},
 	{
@@ -292,7 +292,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.5 - 2km SSW of Middletown, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625460'
 	},
 	{
@@ -325,7 +325,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.8 - 75km W of Anchor Point, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489745'
 	},
 	{
@@ -358,7 +358,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.5 - 15km SSE of Anza, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37552256'
 	},
 	{
@@ -391,7 +391,7 @@ module.exports = [{
 			type: 'quarry blast',
 			title: 'M 0.9 Quarry Blast - 16km NE of Three Forks, Montana'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'mb80137194'
 	},
 	{
@@ -424,7 +424,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.2 - 5km SW of Moapa Town, Nevada'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nn00541322'
 	},
 	{
@@ -457,7 +457,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.6 - 12km SE of Ronan, Montana'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'mb80137164'
 	},
 	{
@@ -490,7 +490,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.4 - 16km SE of Volcano, Hawaii'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'hv61237196'
 	},
 	{
@@ -523,7 +523,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.5 - 98km NNW of Talkeetna, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489580'
 	},
 	{
@@ -556,7 +556,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.7 - 84km SSE of Homer, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489578'
 	},
 	{
@@ -589,7 +589,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.3 - 1km S of Mammoth Lakes, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625440'
 	},
 	{
@@ -622,7 +622,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 5.3 - 57km N of Ambunti, Papua New Guinea'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'us20005khc'
 	},
 	{
@@ -655,7 +655,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.4 - 20km NW of Hawthorne, Nevada'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nn00541320'
 	},
 	{
@@ -688,7 +688,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.0 - 2km SE of The Geysers, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625435'
 	},
 	{
@@ -721,7 +721,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.0 - 8km WSW of Darrington, Washington'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'uw61129062'
 	},
 	{
@@ -754,7 +754,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 4.2 - 31km NNW of Bahia de Caraquez, Ecuador'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'us20005kh1'
 	},
 	{
@@ -787,7 +787,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.0 - 33km ESE of Healy, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489577'
 	},
 	{
@@ -820,7 +820,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.6 - 8km ESE of Lake Henshaw, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37552232'
 	},
 	{
@@ -853,7 +853,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.3 - 63km ENE of Cape Yakataga, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489576'
 	},
 	{
@@ -886,7 +886,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 4.4 - 93km S of La Libertad, El Salvador'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'us20005kgt'
 	},
 	{
@@ -919,7 +919,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.2 - 61km SSW of Homer, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489572'
 	},
 	{
@@ -952,7 +952,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 3.0 - 66km NNE of Road Town, British Virgin Islands'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'pr16112003'
 	},
 	{
@@ -985,7 +985,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.5 - 34km N of Whittier, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489569'
 	},
 	{
@@ -1018,7 +1018,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.4 - 35km NNE of Healy, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489567'
 	},
 	{
@@ -1051,7 +1051,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.9 - 3km SE of The Geysers, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625425'
 	},
 	{
@@ -1084,7 +1084,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.8 - 34km N of San Antonio, Puerto Rico'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'pr16112001'
 	},
 	{
@@ -1117,7 +1117,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.4 - 72km W of Anchor Point, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489563'
 	},
 	{
@@ -1150,7 +1150,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.6 - 10km S of Kelseyville, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625420'
 	},
 	{
@@ -1183,7 +1183,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.5 - 9km WNW of Cobb, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625410'
 	},
 	{
@@ -1216,7 +1216,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.4 - 161km WNW of Haines Junction, Canada'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489410'
 	},
 	{
@@ -1249,7 +1249,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.7 - 9km NNW of Gerlach-Empire, Nevada'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nn00541319'
 	},
 	{
@@ -1282,7 +1282,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 4.4 - 34km SW of Pedernales, Ecuador'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'us20005kg9'
 	},
 	{
@@ -1315,7 +1315,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 4.5 - 137km N of Bereeda, Somalia'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'us20005kg7'
 	},
 	{
@@ -1348,7 +1348,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.6 - 14km N of Borrego Springs, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37552208'
 	},
 	{
@@ -1381,7 +1381,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.2 - 107km NNE of Manley Hot Springs, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489408'
 	},
 	{
@@ -1414,7 +1414,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.7 - 32km NE of Redoubt Volcano, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489407'
 	},
 	{
@@ -1447,7 +1447,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.6 - 9km W of Cobb, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625385'
 	},
 	{
@@ -1480,7 +1480,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.8 - 15km NNW of Pawnee, Oklahoma'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'us20005kfv'
 	},
 	{
@@ -1513,7 +1513,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 3.4 - 90km NNW of Talkeetna, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489393'
 	},
 	{
@@ -1546,7 +1546,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.4 - 10km WNW of The Geysers, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625380'
 	},
 	{
@@ -1579,7 +1579,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.2 - 4km NW of The Geysers, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625370'
 	},
 	{
@@ -1612,7 +1612,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.3 - 21km ESE of Hawthorne, Nevada'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nn00541316'
 	},
 	{
@@ -1645,7 +1645,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.5 - 15km NE of Edmond, Oklahoma'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'us20005kfn'
 	},
 	{
@@ -1678,7 +1678,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.6 - 13km WNW of Gerlach-Empire, Nevada'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nn00541315'
 	},
 	{
@@ -1711,7 +1711,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.4 - 19km SE of Mammoth Lakes, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625365'
 	},
 	{
@@ -1744,7 +1744,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.1 - 21km ESE of Hawthorne, Nevada'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nn00541313'
 	},
 	{
@@ -1777,7 +1777,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 4.2 - 107km NW of Talkeetna, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489226'
 	},
 	{
@@ -1810,7 +1810,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.0 - 22km ESE of Hawthorne, Nevada'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nn00541311'
 	},
 	{
@@ -1843,7 +1843,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.6 - 103km NNE of Manley Hot Springs, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489224'
 	},
 	{
@@ -1876,7 +1876,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.3 - 4km ESE of The Geysers, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625360'
 	},
 	{
@@ -1909,7 +1909,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 3.8 - 108km NW of Talkeetna, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489210'
 	},
 	{
@@ -1942,7 +1942,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.0 - 4km ESE of The Geysers, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625355'
 	},
 	{
@@ -1975,7 +1975,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.5 - 11km NE of Angwin, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625350'
 	},
 	{
@@ -2008,7 +2008,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.6 - 7km W of Cobb, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625345'
 	},
 	{
@@ -2041,7 +2041,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.3 - 4km NW of The Geysers, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625340'
 	},
 	{
@@ -2074,7 +2074,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.9 - 10km N of Tiptonville, Tennessee'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nm60138066'
 	},
 	{
@@ -2107,7 +2107,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.7 - 1km ENE of Loma Linda, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37552192'
 	},
 	{
@@ -2140,7 +2140,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.8 - 13km SW of Morton, Washington'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'uw61129027'
 	},
 	{
@@ -2173,7 +2173,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.7 - 96km NNW of Nikiski, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489206'
 	},
 	{
@@ -2206,7 +2206,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.0 - 6km W of Cobb, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625310'
 	},
 	{
@@ -2239,7 +2239,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 3.3 - 96km NW of Old Iliamna, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489200'
 	},
 	{
@@ -2272,7 +2272,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.9 - 22km N of North Nenana, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489198'
 	},
 	{
@@ -2305,7 +2305,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.3 - 2km NNW of The Geysers, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625305'
 	},
 	{
@@ -2338,7 +2338,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.2 - 2km ENE of Talkeetna, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489197'
 	},
 	{
@@ -2371,7 +2371,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.5 - 4km SW of Idyllwild, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37552184'
 	},
 	{
@@ -2404,7 +2404,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.5 - 10km SSE of Idyllwild, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37552176'
 	},
 	{
@@ -2437,7 +2437,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.9 - 1km ENE of Fontana, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37552168'
 	},
 	{
@@ -2470,7 +2470,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 3.0 - 3km WSW of Yale, Oklahoma'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'us20005kdj'
 	},
 	{
@@ -2503,7 +2503,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.5 - 67km N of Pahrump, Nevada'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nn00541308'
 	},
 	{
@@ -2536,7 +2536,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.3 - 6km NW of The Geysers, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625270'
 	},
 	{
@@ -2569,7 +2569,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.1 - 50km NNE of Chitina, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489057'
 	},
 	{
@@ -2602,7 +2602,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 4.4 - 60km WNW of El Aguilar, Argentina'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'us20005kdd'
 	},
 	{
@@ -2635,7 +2635,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.6 - 3km ENE of Banning, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37552160'
 	},
 	{
@@ -2668,7 +2668,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.9 - 5km WNW of Cobb, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625265'
 	},
 	{
@@ -2701,7 +2701,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.3 - 29km SSW of Hawthorne, Nevada'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nn00541307'
 	},
 	{
@@ -2734,7 +2734,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.7 - 9km NE of Aguanga, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37552152'
 	},
 	{
@@ -2767,7 +2767,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.1 - 110km NW of Talkeetna, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489050'
 	},
 	{
@@ -2800,7 +2800,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.3 - 1km NNE of Portland, Oregon'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'uw61129012'
 	},
 	{
@@ -2833,7 +2833,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.6 - 16km NE of Mooreland, Oklahoma'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'us20005kd7'
 	},
 	{
@@ -2866,7 +2866,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.1 - 3km SW of Anza, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37552136'
 	},
 	{
@@ -2899,7 +2899,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.0 - 29km SSE of Mammoth Lakes, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625260'
 	},
 	{
@@ -2932,7 +2932,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.2 - 33km ENE of Pablo, Montana'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'mb80137189'
 	},
 	{
@@ -2965,7 +2965,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.2 - 4km SE of Redoubt Volcano, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489044'
 	},
 	{
@@ -2998,7 +2998,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.8 - 16km ESE of Waimea, Hawaii'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'hv61236931'
 	},
 	{
@@ -3031,7 +3031,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.3 - 22km E of Glennallen, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489042'
 	},
 	{
@@ -3064,7 +3064,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.8 - 9km S of Idyllwild, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37552128'
 	},
 	{
@@ -3097,7 +3097,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.2 - 11km WNW of Gerlach-Empire, Nevada'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nn00541304'
 	},
 	{
@@ -3130,7 +3130,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.8 - 73km WNW of Valdez, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489040'
 	},
 	{
@@ -3163,7 +3163,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.4 - 9km SSE of Yucca Valley, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37552120'
 	},
 	{
@@ -3196,7 +3196,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.3 - 29km SSE of Virginia City, Montana'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'mb80137124'
 	},
 	{
@@ -3229,7 +3229,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.8 - 5km WSW of Volcano, Hawaii'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'hv61236891'
 	},
 	{
@@ -3262,7 +3262,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.5 - 12km NNW of Chatsworth, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37552112'
 	},
 	{
@@ -3295,7 +3295,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.9 - 14km ENE of Thousand Palms, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37552104'
 	},
 	{
@@ -3328,7 +3328,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.8 - 52km WSW of Big Lake, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489038'
 	},
 	{
@@ -3361,7 +3361,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.7 - 67km ENE of Cantwell, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13489034'
 	},
 	{
@@ -3394,7 +3394,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.8 - 44km W of Rincon, Puerto Rico'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'pr16112000'
 	},
 	{
@@ -3427,7 +3427,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.9 - 3km ESE of Lake Henshaw, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37552080'
 	},
 	{
@@ -3460,7 +3460,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.5 - 6km NW of The Geysers, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625245'
 	},
 	{
@@ -3493,7 +3493,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.0 - 5km S of Lake Morton-Berrydale, Washington'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'uw61128912'
 	},
 	{
@@ -3526,7 +3526,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.0 - 15km ESE of Louisa, Virginia'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'se60025003'
 	},
 	{
@@ -3559,7 +3559,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.1 - 14km ESE of Yosemite Valley, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625240'
 	},
 	{
@@ -3592,7 +3592,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.9 - 20km ESE of Anza, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37552072'
 	},
 	{
@@ -3625,7 +3625,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.2 - 21km ESE of Anza, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37552064'
 	},
 	{
@@ -3658,7 +3658,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.5 - 89km NW of Nikiski, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13488896'
 	},
 	{
@@ -3691,7 +3691,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.5 - 12km SW of Valencia, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37552056'
 	},
 	{
@@ -3724,7 +3724,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.6 - 12km SSW of Valencia, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37552048'
 	},
 	{
@@ -3757,7 +3757,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.8 - 35km SSE of Goldfield, Nevada'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nn00541301'
 	},
 	{
@@ -3790,7 +3790,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.1 - 35km SW of Tanaga Volcano, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13488888'
 	},
 	{
@@ -3823,7 +3823,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.4 - 69km NE of Whittier, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13488883'
 	},
 	{
@@ -3856,7 +3856,7 @@ module.exports = [{
 			type: 'quarry blast',
 			title: 'M 0.9 Quarry Blast - 2km ENE of Glen Avon, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37552040'
 	},
 	{
@@ -3889,7 +3889,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.5 - 10km WSW of Lakeport, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625230'
 	},
 	{
@@ -3922,7 +3922,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.7 - 30km NNW of Anchor Point, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13488749'
 	},
 	{
@@ -3955,7 +3955,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.5 - 2km NNW of The Geysers, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625215'
 	},
 	{
@@ -3988,7 +3988,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.5 - 32km E of Mooreland, Oklahoma'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'us20005kbe'
 	},
 	{
@@ -4021,7 +4021,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.6 - 92km WSW of Cantwell, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13488746'
 	},
 	{
@@ -4054,7 +4054,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.9 - 7km WNW of The Geysers, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625210'
 	},
 	{
@@ -4087,7 +4087,7 @@ module.exports = [{
 			type: 'quarry blast',
 			title: 'M 1.9 Quarry Blast - 5km NNW of Boron, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37552032'
 	},
 	{
@@ -4120,7 +4120,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.8 - 4km SSW of Lytle Creek, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37552024'
 	},
 	{
@@ -4153,7 +4153,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.4 - 19km N of Rockport, Washington'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'uw61128847'
 	},
 	{
@@ -4186,7 +4186,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.5 - 31km NW of Fairview, Oklahoma'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'us20005kay'
 	},
 	{
@@ -4219,7 +4219,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.0 - 7km S of Idyllwild, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37552016'
 	},
 	{
@@ -4252,7 +4252,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.6 - 12km NNW of Chatsworth, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37552008'
 	},
 	{
@@ -4285,7 +4285,7 @@ module.exports = [{
 			type: 'chemical explosion',
 			title: 'M 2.1 Chemical Explosion - 2km ESE of Selah, Washington'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'uw61128842'
 	},
 	{
@@ -4318,7 +4318,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.6 - 23km NNE of Badger, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13488511'
 	},
 	{
@@ -4351,7 +4351,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.4 - 6km WNW of The Geysers, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625195'
 	},
 	{
@@ -4384,7 +4384,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.6 - 37km ENE of Old Faithful Geyser, Wyoming'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'uu60146002'
 	},
 	{
@@ -4417,7 +4417,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.7 - 13km SE of Mammoth Lakes, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625190'
 	},
 	{
@@ -4450,7 +4450,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.8 - 4km NNW of The Geysers, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625185'
 	},
 	{
@@ -4483,7 +4483,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 4.4 - 223km SE of Lambasa, Fiji'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'us20005kar'
 	},
 	{
@@ -4516,7 +4516,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.5 - 19km SSE of Mammoth Lakes, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625175'
 	},
 	{
@@ -4549,7 +4549,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 4.7 - 44km WNW of Bahia de Caraquez, Ecuador'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'us20005kaq'
 	},
 	{
@@ -4582,7 +4582,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.5 - 21km E of Ronan, Montana'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'mb80137184'
 	},
 	{
@@ -4615,7 +4615,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.5 - 16km SE of Yosemite Valley, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625170'
 	},
 	{
@@ -4648,7 +4648,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.4 - 10km WNW of Gerlach-Empire, Nevada'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nn00541283'
 	},
 	{
@@ -4681,7 +4681,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 3.1 - 69km W of Anchor Point, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13488369'
 	},
 	{
@@ -4714,7 +4714,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.9 - 7km SSW of Cabazon, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37551976'
 	},
 	{
@@ -4747,7 +4747,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.9 - 75km W of Anchor Point, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13488361'
 	},
 	{
@@ -4780,7 +4780,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.3 - 31km NW of Valdez, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13488242'
 	},
 	{
@@ -4813,7 +4813,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.1 - 6km SSE of Hoback, Wyoming'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'mb80137094'
 	},
 	{
@@ -4846,7 +4846,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 4.9 - 10km ESE of Muisne, Ecuador'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'us20005kab'
 	},
 	{
@@ -4879,7 +4879,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.3 - 2km N of Black Diamond, Washington'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'uw61128782'
 	},
 	{
@@ -4912,7 +4912,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.3 - 108km NW of Talkeetna, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13488241'
 	},
 	{
@@ -4945,7 +4945,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.1 - 7km ESE of Vincent, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37551968'
 	},
 	{
@@ -4978,7 +4978,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.0 - 43km ESE of Bridgeport, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nn00541275'
 	},
 	{
@@ -5011,7 +5011,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.3 - 3km SW of Warm Beach, Washington'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'uw61128777'
 	},
 	{
@@ -5044,7 +5044,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.4 - 19km NW of Hawthorne, Nevada'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nn00541297'
 	},
 	{
@@ -5077,7 +5077,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.5 - 19km SW of La Quinta, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37551952'
 	},
 	{
@@ -5110,7 +5110,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.3 - 88km NW of Nikiski, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13488895'
 	},
 	{
@@ -5143,7 +5143,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 4.9 - 22km SW of Sinabang, Indonesia'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'us20005k9s'
 	},
 	{
@@ -5176,7 +5176,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.5 - 78km S of Larsen Bay, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13488236'
 	},
 	{
@@ -5209,7 +5209,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.2 - 20km ESE of Anza, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37551944'
 	},
 	{
@@ -5242,7 +5242,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.3 - 110km W of Cantwell, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13488234'
 	},
 	{
@@ -5275,7 +5275,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.4 - 1km NNW of Manchester, Washington'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'uw61128762'
 	},
 	{
@@ -5308,7 +5308,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 4.5 - 6km WSW of Beppu, Japan'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'us20005k9h'
 	},
 	{
@@ -5341,7 +5341,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 4.5 - 36km SSW of Puerto El Triunfo, El Salvador'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'us20005k9e'
 	},
 	{
@@ -5374,7 +5374,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.3 - 36km E of Hawthorne, Nevada'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nn00541270'
 	},
 	{
@@ -5407,7 +5407,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.8 - 18km NE of Barstow, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37551920'
 	},
 	{
@@ -5440,7 +5440,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.7 - 14km NNE of Borrego Springs, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37551912'
 	},
 	{
@@ -5473,7 +5473,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.7 - 18km NE of Barstow, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37551904'
 	},
 	{
@@ -5506,7 +5506,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.1 - 18km SSE of Saint George, Utah'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nn00541265'
 	},
 	{
@@ -5539,7 +5539,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.2 - 2km WNW of Saint Helena, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625140'
 	},
 	{
@@ -5572,7 +5572,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.3 - 5km NW of The Geysers, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625130'
 	},
 	{
@@ -5605,7 +5605,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 4.6 - 190km NW of Sola, Vanuatu'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'us20005k96'
 	},
 	{
@@ -5638,7 +5638,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 3.5 - 105km NNE of Chignik Lake, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13488117'
 	},
 	{
@@ -5671,7 +5671,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.6 - 16km E of Coso Junction, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37551896'
 	},
 	{
@@ -5704,7 +5704,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.4 - 16km E of Coso Junction, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37138900'
 	},
 	{
@@ -5737,7 +5737,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.5 - 5km W of Cobb, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625125'
 	},
 	{
@@ -5770,7 +5770,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.6 - 16km E of Coso Junction, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37551888'
 	},
 	{
@@ -5803,7 +5803,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.0 - 7km S of Hoback, Wyoming'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'mb80137054'
 	},
 	{
@@ -5836,7 +5836,7 @@ module.exports = [{
 			type: 'quarry blast',
 			title: 'M 1.3 Quarry Blast - 11km E of Quarry near Portola Valley, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625120'
 	},
 	{
@@ -5869,7 +5869,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.6 - 3km WSW of Laytonville, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625115'
 	},
 	{
@@ -5902,7 +5902,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.5 - 52km WSW of Austin, Nevada'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -90.4123, 48.6628, 13.1 ]},
 		id: 'nn00541259'
 	},
 	{
@@ -5935,7 +5935,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.3 - 105km NW of Talkeetna, Alaska'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ak13488005'
 	},
 	{
@@ -5968,7 +5968,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 1.4 - 6km NNW of Desert Hot Springs, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37551880'
 	},
 	{
@@ -6001,7 +6001,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.9 - 4km NW of The Geysers, California'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'nc72625110'
 	},
 	{
@@ -6034,7 +6034,7 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 2.0 - 7km NNE of Borrego Springs, CA'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'ci37551856'
 	},
 	{
@@ -6067,6 +6067,6 @@ module.exports = [{
 			type: 'earthquake',
 			title: 'M 0.9 - 6km SW of Volcano, Hawaii'
 		},
-		geometry: {type: 'Point', coordinates: [Object]},
+		geometry: {type: 'Point', coordinates: [ -116.4123, 36.6628, 13.1 ]},
 		id: 'hv61236441'
 	}];
