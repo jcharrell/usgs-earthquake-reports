@@ -63,6 +63,12 @@ the load put on the USGS servers.
 		* Type: `string`
 		* Format: `YYYY-MM-DDTHH:mm:ss`, e.g. 2016-01-30T23:59:59
 		* Defines the most recent event to return in UTC
+	- `minLat`
+		* Type: `float`
+		* Defines the minimum event latitude to return
+	- `maxLat`
+		* Type: `float`
+		* Defines the maximum event latitude to return
 
 ## License
 
