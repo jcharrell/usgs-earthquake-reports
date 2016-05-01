@@ -4,6 +4,7 @@ const co = require('co');
 const filterByMag = require('./filters/magnitude');
 const filterByTime = require('./filters/time');
 const filterByLat = require('./filters/latitude');
+const filterByLng = require('./filters/longitude');
 
 
 module.exports = function reportsRequest(data, filters) {
@@ -22,6 +23,10 @@ module.exports = function reportsRequest(data, filters) {
 
 		if(filters.minLat || filters.maxLat) {
 			data = filterByLat(data, filters.minLat, filters.maxLat);
+		}
+
+		if(filters.minLng || filters.maxLng) {
+			data = filterByLng(data, filters.minLng, filters.maxLng);
 		}
 
 		return data;
