@@ -69,6 +69,12 @@ the load put on the USGS servers.
 	- `maxLat`
 		* Type: `float`
 		* Defines the maximum event latitude to return
+	- `minLng`
+		* Type: `float`
+		* Defines the minimum event longitude to return
+	- `maxLng`
+		* Type: `float`
+		* Defines the maximum event longitude to return
 
 ## License
 
