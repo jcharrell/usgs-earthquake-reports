@@ -18,17 +18,17 @@ var earthquakeReports = require('usgs-earthquake-reports');
 
 // Request all events with a magnitude between 0.5 and 1.5 between the specified times and north of the equator
 var filterOptions = {
-	minMag: 0.5,
-	maxMag: 1.5,
-	minTime: '2016-04-17T20:30:04',
-	maxTime: '2016-04-17T20:45:04',
-	minLat: 0.0
+  minMag: 0.5,
+  maxMag: 1.5,
+  minTime: '2016-04-17T20:30:04',
+  maxTime: '2016-04-17T20:45:04',
+  minLat: 0.0
 };
 
 earthquakeReports('day', filterOptions).then(function usgsResponse(data) {
-	console.log(data);
+  console.log(data);
 }).catch(function errorHandler(err) {
-	console.log(err);
+  console.log(err);
 });
 ```
 
