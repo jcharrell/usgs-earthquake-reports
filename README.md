@@ -18,17 +18,17 @@ var earthquakeReports = require('usgs-earthquake-reports');
 
 // Request all events with a magnitude between 0.5 and 1.5 between the specified times and north of the equator
 var filterOptions = {
-	minMag: 0.5,
-	maxMag: 1.5,
-	minTime: '2016-04-17T20:30:04',
-	maxTime: '2016-04-17T20:45:04',
-	minLat: 0.0
+  minMag: 0.5,
+  maxMag: 1.5,
+  minTime: '2016-04-17T20:30:04',
+  maxTime: '2016-04-17T20:45:04',
+  minLat: 0.0
 };
 
 earthquakeReports('day', filterOptions).then(function usgsResponse(data) {
-	console.log(data);
+  console.log(data);
 }).catch(function errorHandler(err) {
-	console.log(err);
+  console.log(err);
 });
 ```
 
@@ -52,32 +52,32 @@ the load put on the USGS servers.
 - Type: `object`
 - Note: Defines filters for the returned data.  Filters do not need to be combined with counterpart options.
 - Properties:
-	- `minMag`  
-		* Type: `decimal`
-		* Defines the minimum magnitude event to return
-	- `minMag`
-		* Type: `decimal`
-		* Defines the maximum magnitude event to return
-	- `minTime`
-		* Type: `string`
-		* Format: `YYYY-MM-DDTHH:mm:ss`, e.g. 2016-01-30T00:00:00
-		* Defines the oldest event to return in UTC
-	- `maxTime`
-		* Type: `string`
-		* Format: `YYYY-MM-DDTHH:mm:ss`, e.g. 2016-01-30T23:59:59
-		* Defines the most recent event to return in UTC
-	- `minLat`
-		* Type: `float`
-		* Defines the minimum event latitude to return
-	- `maxLat`
-		* Type: `float`
-		* Defines the maximum event latitude to return
-	- `minLng`
-		* Type: `float`
-		* Defines the minimum event longitude to return
-	- `maxLng`
-		* Type: `float`
-		* Defines the maximum event longitude to return
+    - `minMag`  
+        * Type: `decimal`
+        * Defines the minimum magnitude event to return
+    - `minMag`
+        * Type: `decimal`
+        * Defines the maximum magnitude event to return
+    - `minTime`
+        * Type: `string`
+        * Format: `YYYY-MM-DDTHH:mm:ss`, e.g. 2016-01-30T00:00:00
+        * Defines the oldest event to return in UTC
+    - `maxTime`
+        * Type: `string`
+        * Format: `YYYY-MM-DDTHH:mm:ss`, e.g. 2016-01-30T23:59:59
+        * Defines the most recent event to return in UTC
+    - `minLat`
+        * Type: `float`
+        * Defines the minimum event latitude to return
+    - `maxLat`
+        * Type: `float`
+        * Defines the maximum event latitude to return
+    - `minLng`
+        * Type: `float`
+        * Defines the minimum event longitude to return
+    - `maxLng`
+        * Type: `float`
+        * Defines the maximum event longitude to return
 
 ## License
 
