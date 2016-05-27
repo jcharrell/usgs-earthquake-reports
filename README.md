@@ -1,6 +1,6 @@
 # usgs-earthquake-reports
 
-[![npm version](https://badge.fury.io/js/usgs-earthquake-reports.svg)](https://www.npmjs.com/package/usgs-earthquake-reports)
+[![npm version](https://badge.fury.io/js/usgs-earthquake-reports.svg)](https://badge.fury.io/js/usgs-earthquake-reports)
 
 > This is a library that parses and returns USGS [earthquake reports](http://earthquake.usgs.gov/earthquakes/).
 
